@@ -9,3 +9,8 @@ faiss_cpu
 chainlit
 huggingface_hub
 langchain_community
+python-telegram-bot
+langchain-huggingface
+uptrace
+wheel
+langchain_community
