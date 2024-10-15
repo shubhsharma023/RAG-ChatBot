@@ -1,3 +1,10 @@
+huggingface_hub
+langchain_community
+python-telegram-bot
+langchain-huggingface
+uptrace
+wheel
+langchain_community
 pypdf
 langchain
 torch
@@ -7,10 +14,3 @@ ctransformers
 sentence_transformers
 faiss_cpu
 chainlit
-huggingface_hub
-langchain_community
-python-telegram-bot
-langchain-huggingface
-uptrace
-wheel
-langchain_community
