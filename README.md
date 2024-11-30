@@ -1,5 +1,7 @@
 # Pre-Requisites/Technologies
 
+![Untitled-2024-11-27-1419](https://github.com/user-attachments/assets/b5d99be1-5e98-42d9-a9ab-b68b0de7ec16)
+
 - Langchain
 - Faissdb
 - Huggingface Llama 3.2 model
